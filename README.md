@@ -21,4 +21,4 @@ A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
 - Basic AI Logic
 
 ## Live Demo
-(Will be added after GitHub Pages)
+ https://asrafirdouse.github.io/tic-tac-toe-js/
